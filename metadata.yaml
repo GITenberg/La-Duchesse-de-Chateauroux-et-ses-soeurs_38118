@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5694
     wikipedia: http://fr.wikipedia.org/wiki/Jules_de_Goncourt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38118#La-Duchesse-de-Chateauroux-et-ses-soeurs
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2011-11-24'
 gutenberg_type: Text
